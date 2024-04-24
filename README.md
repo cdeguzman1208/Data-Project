@@ -13,4 +13,4 @@ Dataset: https://en.wikipedia.org/wiki/List_of_national_instruments_(music) -> C
 - In the submission comments, give your reasoning for why you chose the visualization format for this data (medium is the message)
   - Why did you choose this particular form of visualization? What benefit does it give to the statement of data?
 
-I have a genuine love for music and find the national instruments of world countries to be a fasinating cultural niche. The benefit of this visualizaiton is to promote diversity and interconnectedness through music education.
+I have a genuine love for music and find the national instruments of world countries to be a fasinating cultural niche. The benefit of this visualization is to promote diversity and interconnectedness through music education.
