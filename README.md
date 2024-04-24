@@ -1,5 +1,5 @@
 # Data-Project
-A Data Visualization that uses a static data source
+**A Data Visualization** that uses a static data source
 
 *In this context, a static data source means data that is unchanging once its implemented into the project, not utilizing a dynamic or user selected dataset*
 - The Visualization must have interactive elements. This can be filters, drag/zoom/expand, gameplay, clickable animations, or more. Look to Explorabl.esLinks to an external site. for inspiration 
