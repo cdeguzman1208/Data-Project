@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--
+CSE 163
+index.html
+Weblink for Project: https://github.com/bdasgupta027/musical_instruments
+
+-->
+
+<html>
+	<head>
+        <title>Classification of National Instruments</title>
+		<meta charset="utf-8">
+		<title>D3: Setting path fills</title>
+        
+        <!-- D3 V5 -->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        
+        <script type="text/javascript" src="https://d3js.org/topojson.v1.min.js"></script>
+        <script type="text/javascript" src="https://d3js.org/d3.geo.projection.v0.min.js"></script>
+        
+        <!-- CSS file -->
+	   <link rel="stylesheet" type="text/css" href="music.css">
+        
+        <title><strong> Musical Instruments of the World</strong></title>
+        
+	</head>
+	<body>
+        <h1><center><strong>Map of National Musical Instruments</strong></center></h1>
+        
+        <br>
+
+        <center>
+            <br>
+            <INPUT class = "button" TYPE = "button" VALUE = "Reload Page" onClick="history.go(0)">
+            <INPUT class = "button" TYPE = "button" VALUE = "Sort by Broad Type" onClick="changeBroadColorScheme()">
+            <INPUT class = "button" TYPE = "button" VALUE = "Sort by Minot Type" onClick="changeMinotColorScheme()">
+                </INPUT>
+            <INPUT class = "button" TYPE = "button" VALUE = "Sort by Specific Type" onClick="changeSpecificColorScheme()">
+                </INPUT>
+            </INPUT>
+            </INPUT>
+        </center>
+        <br>
+        <div id="container"><center></center></div>
+         
+        <!-- Javascript file -->
+        <script  src="music.js"> </script>
+	</body>
+</html>
